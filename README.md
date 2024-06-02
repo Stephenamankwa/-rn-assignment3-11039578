@@ -38,4 +38,7 @@ View, Text, and Image components are used in combination to display categories. 
 Ongoing Tasks
 The FlatList component is used to represent ongoing tasks. Iterating over a list of tasks, it renders each one using the View and Text components.
 
+Screenshoot 
+![Screenshot 2024-06-02 121027](https://github.com/Stephenamankwa/rn-assignment3-11039578/assets/160183785/d0377abf-092c-4e36-9665-fc83cb6c28c7)
+![Screenshot 2024-06-02 121204](https://github.com/Stephenamankwa/rn-assignment3-11039578/assets/160183785/c4484f70-376e-4ecd-9b8c-507ead595abc)
 
